@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frank Ocean</title>
+    <link href="https://fonts.googleapis.com/css?family=Cookie|Lato|Montserrat|Raleway|Viaoda+Libre&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/main.css">
+</head>
+
+<body>
+<div id="container" class="dating_container">
+
+  <h1 class="profile_header">It's a match!</h1>
+    <div class="bio">
+
+      <p class="name-subtitle">Frank Ocean</p>
+  <img class="bio" src="../static/images/pic9.jpg">
+
+<section class="bio-info">
+  <p class="pic-subtitle">Birthday: 10/28/1987</p>
+  <p class="pic-subtitle">Zodiac: Scorpio </p>
+  <p class="pic-subtitle">Hometown: Long Beach, California, U.S</p>
+</section>
+
+</div>
+<ul>
+
+  <li>Hello! My name is: <span>Christopher Edwin Cooksey, but you can call me Frank Ocean !</span></li>
+  <li>My hobbies include: <span>Going ghost and coming up with creative ideas to return to the public eye</span></li>
+    <li>I'm looking for: <span>Someone who doesn&#39;t mind me being absent for extremley long periods of time</span></li>
+  <li>Listen to my latest album: <span>Blonde (2016)</span></li>
+  <li>Some lyrics I think best describe me! <span>&#34;I thought that I was dreaming when you said you love me
+The start of nothing
+I had no chance to prepare
+I couldn&#39;t see you coming
+The start of nothing
+I could hate you now
+It&#39;s quite alright to hate me now
+When we both know that deep down
+The feeling still deep down is good&#34;</span>
+
+</ul>
+
+  <footer class="footer"><a href="../index.html">Return to the other dating profiles!</a></footer>
+
+  </div>
+  <p class="footer">All images courtesy of Wikimedia Commons and flickr.com</p>
+</body>
+</html>
